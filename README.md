@@ -1,4 +1,6 @@
-基因组学工具合集
+# 基因组学工具合集
+
+整理了一些我所知道的和基因组学相关的工具，可能不全面，欢迎补充
 
 ## 一代组装
 
@@ -19,7 +21,7 @@
 - [MECAT2](https://github.com/xiaochuanle/MECAT2): PacBio专用组装工具
 - [NECAT](https://github.com/xiaochuanle/NECAT): Nanopore专用组装工具
 - [NextDenovo](https://github.com/Nextomics/NextDenovo): 可用于Nanopore的组装工具
-- FLYE(https://github.com/fenderglass/Flye)
+- [FLYE](https://github.com/fenderglass/Flye)
 - [SMARTdenovo](https://github.com/ruanjue/smartdenovo)       
 - [WTDBG2](https://github.com/ruanjue/wtdbg2)
 
