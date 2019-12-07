@@ -62,7 +62,14 @@ GFA是目前组装比较认可的格式
 - [ALLHiC](https://github.com/tangerzhang/ALLHiC): 多倍体HiC组装             
 - LACHESIS: 古老的工具，已不再维护
 
-### BioNano
+### 光学图谱
+
+- [Bionano Solve](https://bionanogenomics.com/support/software-downloads/): BioNano提供的一系列分析脚本工具
+- [BIONANO ACCESS](https://bionanogenomics.com/support/software-downloads/): BioNano提供的网页工具
+- [OMSV](http://yiplab.cse.cuhk.edu.hk/omsv/): 基于光学图谱鉴定SV
+- [OMTools](https://github.com/TF-Chan-Lab/OMTools): 光学图谱数据处理，分析和可视化
+
+
 
 ### 遗传图谱
 
