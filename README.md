@@ -51,6 +51,8 @@ GFA是目前组装比较认可的格式
 
 ##  辅助组装
 
+使用遗传图谱，光学图谱，Hi-C和物种间共线性对contig进行scaffold的工具
+
 ### HiC
 
 - [SALSA](https://github.com/marbl/SALSA): 高效率，能纠错使用GFA信息
@@ -63,7 +65,9 @@ GFA是目前组装比较认可的格式
 
 ### 遗传图谱
 
-- [ALLMAPS](https://github.com/tanghaibao/jcvi/)
+### 整合工具
+
+- [ALLMAPS](https://github.com/tanghaibao/jcvi/): 可以整合多张图谱做一套比较好的染色体组装
 
 ## 组装质量评估
 
