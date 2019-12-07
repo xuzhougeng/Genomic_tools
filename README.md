@@ -23,13 +23,14 @@
 - [NextDenovo](https://github.com/Nextomics/NextDenovo): 可用于Nanopore的组装工具
 - [FLYE](https://github.com/fenderglass/Flye)
 - [SMARTdenovo](https://github.com/ruanjue/smartdenovo)       
-- [WTDBG2](https://github.com/ruanjue/wtdbg2)
+- [WTDBG2](https://github.com/ruanjue/wtdbg2): 不对原始数据纠错,快速的组装工具
+- [Shasta](https://github.com/chanzuckerberg/shasta): Nanopore组装工具
 
 ## GFA相关
 
 GFA是目前组装比较认可的格式
 
-- [GFA格式声明](http://gfa-spec.github.io/GFA-spec/GFA1.html​)        
+- [GFA格式声明](http://gfa-spec.github.io/GFA-spec/GFA1.html)        
 - [Gfakluge](https://github.com/edawson/gfakluge): GFA操作工具         
 - [Bandage](https://github.com/rrwick/Bandage): 全平台GUI可视化工具
 - [GfaViz](https://github.com/ggonnella/gfaviz): 命令行的可视化        
