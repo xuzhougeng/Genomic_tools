@@ -101,10 +101,12 @@ GFA是目前组装比较认可的格式
 - 三代注释工具
   - [FLAIR](https://github.com/BrooksLabUCSC/flair): 用于nanopore cDNA, native RNA, PacBio的纠错,鉴定isoform,可变剪切分析
   - [SQANTI](https://bitbucket.org/ConesaLab/sqanti/src/master/): 新转录本的结构和质量注释
+  - [PINISH](https://github.com/nanoporetech/pinfish): 构建注释信息
 
 - 注释流程
   - [Braker2](https://github.com/Gaius-Augustus/BRAKER)
   - [MAKER](https://www.yandell-lab.org/software/maker.html)
+  - [LoReAn](https://github.com/lfaino/LoReAn): 整合三代测序的基因组注释流程
              
 
 ## WGD分析
