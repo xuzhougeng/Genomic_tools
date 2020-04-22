@@ -2,6 +2,11 @@
 
 整理了一些我所知道的和基因组学相关的工具，可能不全面，欢迎补充
 
+## 基因组Survey
+
+- [GenomeScop2.0](https://github.com/tbenavi1/genomescope2.0) : Reference-free profiling of polyploid genomes
+- [smudgeplot](https://github.com/KamilSJaron/smudgeplot): Inference of ploidy and heterozygosity structure using whole genome sequencing data
+
 ## 一代组装
 
 - [Celera Assembler](http://wgs-assembler.sourceforge.net/): 最具代表性的工具
@@ -69,7 +74,9 @@ GFA是目前组装比较认可的格式
 - [OMSV](http://yiplab.cse.cuhk.edu.hk/omsv/): 基于光学图谱鉴定SV
 - [OMTools](https://github.com/TF-Chan-Lab/OMTools): 光学图谱数据处理，分析和可视化
 
+## 基于已有基因组
 
+- [RaGoo](https://github.com/malonge/RaGOO)
 
 ### 遗传图谱
 
