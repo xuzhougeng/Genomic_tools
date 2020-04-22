@@ -57,7 +57,7 @@ GFA是目前组装比较认可的格式
 
 ##  辅助组装
 
-使用遗传图谱，光学图谱，Hi-C和物种间共线性对contig进行scaffold的工具
+使用遗传图谱，光学图谱，Hi-C和物种间共线性对contig进行scaffold, 或者是基于已有参考基因组进行辅助组装。
 
 ### HiC
 
@@ -76,6 +76,7 @@ GFA是目前组装比较认可的格式
 
 ## 基于已有基因组
 
+- [chromosomer](https://github.com/gtamazian/chromosomer)
 - [RaGoo](https://github.com/malonge/RaGOO)
 
 ### 遗传图谱
