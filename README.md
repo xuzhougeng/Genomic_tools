@@ -2,6 +2,8 @@
 
 整理了一些我所知道的和基因组学相关的工具，可能不全面，欢迎补充
 
+PS: 有中文评论才是我用过的
+
 ## 基因组Survey
 
 - [GenomeScop2.0](https://github.com/tbenavi1/genomescope2.0) : Reference-free profiling of polyploid genomes
@@ -22,6 +24,7 @@
 
 - [falcon](https://github.com/PacificBiosciences/pb-assembly): PacBio专用组装工具        
 - [Canu](https://canu.readthedocs.io/en/latest/): 老牌工具，资源消耗大
+- [HINGE](https://github.com/HingeAssembler/HINGE)
 - [MECAT](https://github.com/xiaochuanle/MECAT): 高效的三代组装工具
 - [MECAT2](https://github.com/xiaochuanle/MECAT2): PacBio专用组装工具
 - [NECAT](https://github.com/xiaochuanle/NECAT): Nanopore专用组装工具
