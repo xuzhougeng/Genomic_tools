@@ -50,7 +50,7 @@ GFA是目前组装比较认可的格式
 - Pilon: 利用二代进行polish
 - Racon: 利用三代进行polish
 - NextPolish: 利用二代进行polish
-- Medaka: 利用三代对nanpore进行polish
+- Medaka: 利用三代对nanpore进行polish(建议先用Racon Polish至少一次)
 
 ## 去除冗余序列
 
