@@ -54,9 +54,10 @@ GFA是目前组装比较认可的格式
 
 ## 去除冗余序列
 
-- [purge_haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)
 - [HaploMerger2](https://github.com/mapleforest/HaploMerger2)
 - [Redundans](https://github.com/lpryszcz/redundans)
+- [purge_haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)
+- [purge_dups](https://github.com/dfguan/purge_dups) 
 
 ##  辅助组装
 
