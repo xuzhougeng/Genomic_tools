@@ -57,7 +57,7 @@ GFA是目前组装比较认可的格式
 - [HaploMerger2](https://github.com/mapleforest/HaploMerger2)
 - [Redundans](https://github.com/lpryszcz/redundans)
 - [purge_haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)
-- [purge_dups](https://github.com/dfguan/purge_dups) 
+- [purge_dups](https://github.com/dfguan/purge_dups): 借鉴了purge_haplotigs，但是更快更自动化，智能确定阈值
 
 ##  辅助组装
 
