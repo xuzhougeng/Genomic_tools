@@ -124,6 +124,7 @@ GFA是目前组装比较认可的格式
 
 ## WGD分析
 
+- [wgdi](https://github.com/SunPengChuan/wgdi/): 比较基因组学分析的瑞士军刀
 - [wgd](https://github.com/arzwa/wgd)
 
 ## 全基因组比对软件
@@ -135,6 +136,7 @@ GFA是目前组装比较认可的格式
 
 ## 共线性可视化
 
+- [D-Genies](http://dgenies.toulouse.inra.fr/): 非常好用的网页工具
 - [dotPlotly](https://github.com/tpoorten/dotPlotly)         
 
 ## 群体结构
