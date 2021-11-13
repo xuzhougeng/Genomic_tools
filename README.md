@@ -114,7 +114,8 @@ GFA是目前组装比较认可的格式
 - 三代注释工具
   - [FLAIR](https://github.com/BrooksLabUCSC/flair): 用于nanopore cDNA, native RNA, PacBio的纠错,鉴定isoform,可变剪切分析
   - [SQANTI](https://bitbucket.org/ConesaLab/sqanti/src/master/): 新转录本的结构和质量注释
-  - [PINISH](https://github.com/nanoporetech/pinfish): 构建注释信息
+  - ~[PINISH](https://github.com/nanoporetech/pinfish): 构建注释信息~
+  - [pipeline-nanopore-ref-isoforms](https://github.com/nanoporetech/pipeline-nanopore-ref-isoforms):
 
 - 注释流程
   - [Braker2](https://github.com/Gaius-Augustus/BRAKER)
